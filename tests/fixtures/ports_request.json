@@ -1,0 +1,34 @@
+{
+  "AEAJM": {
+    "name": "Ajman",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "alias": ["Ajm"],
+    "regions": ["UAE"],
+    "coordinates": [
+      55.5136433,
+      25.4052165
+    ],
+    "province": "Ajman",
+    "timezone": "Asia/Dubai",
+    "unlocs": [
+      "AEAJM"
+    ],
+    "code": "52000"
+  },
+  "AEKLF": {
+    "name": "Khor al Fakkan",
+    "coordinates": [
+      56.35,
+      25.33
+    ],
+    "city": "Khor al Fakkan",
+    "country": "United Arab Emirates",
+    "alias": ["KAF"],
+    "regions": ["UAE"],
+    "timezone": "Asia/Dubai",
+    "unlocs": [
+      "AEKLF"
+    ]
+  }
+}
